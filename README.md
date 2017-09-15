@@ -1,2 +1,3 @@
 # DropBox
-My first project of grad studies at SJSU
+
+I'm a grad student at SJSU
